@@ -82,7 +82,7 @@ In Amazon Linux 2 AMI (HVM):
     sudo yum update -y	                    	#Update the list of the available software
     sudo yum -y install httpd    	        	#httpd: the package that runs Apache
     
-    sudo yum install git                        #Copy [FRONTEND](https://github.com/wulinghsuan/AWS_MNIST/tree/master/FRONTEND) folder
+    sudo yum install git                        #Copy FRONTENDfolder
     sudo git clone https://github.com/wulinghsuan/AWS_MNIST.git
     
     sudo service httpd start       	        	#Start the servcie
