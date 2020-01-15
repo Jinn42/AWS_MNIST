@@ -94,7 +94,7 @@ In Amazon Linux 2 AMI (HVM):
 In Ubuntu:
 
     sudo apt-get update -y
-    sudo apt-get install apache
+    sudo apt-get install apache2
 
     sudo apt-get install git
     sudo git clone https://github.com/wulinghsuan/AWS_MNIST.git
